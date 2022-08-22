@@ -1,0 +1,71 @@
+insert into subject values('15336413', 'CSE250', 'CSE200', 'ENR204', 'MAT102', 'COM102');
+insert into marks values('15336413', '68','91','64','83','71');
+
+insert into subject values('15331970','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331970', '75','92','66','82','73');
+
+insert into subject values('15339302','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15339302', '73','94','62','86','72');
+
+insert into subject values('15336884','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15336884', '79','98','69','89','73');
+
+insert into subject values('15335577','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15335577', '77','96','65','84','72');
+
+insert into subject values('15331902','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331902','75','91','67','82','70');
+
+insert into subject values('15331903','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331903', '74','92','64','83','75');
+
+insert into subject values('15331904','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331904', '78','93','65','84','79');
+
+insert into subject values('15331905','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331905', '70','96','66','81','73');
+
+insert into subject values('15331905','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331905', '72','97','62','82','74');
+insert into subject values('15331906','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331906', '75','94','64','86','75');
+
+insert into subject values('15331907','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331907', '73','98','65','88','76');
+
+insert into subject values('15331908','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331908', '78','93','63','84','70');
+
+insert into subject values('15331909','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331909', '79','99','68','89','77');
+
+insert into subject values('15331910','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331910', '74','93','69','85','75');
+
+insert into subject values('15331911','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331911', '77','95','66','84','79');
+
+insert into subject values('15331912','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331912', '79','93','64','83','76');
+
+insert into subject values('15331913','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331913', '71','97','63','87','74');
+
+insert into subject values('15331914','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331914', '72','94','62','80','73');
+
+insert into subject values('15331915','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331915', '70','95','64','88','72');
+
+
+insert into subject values('15331917','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331917', '70','97','66','88','76');
+
+insert into subject values('15331918','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331918', '75','92','63','86','77');
+
+insert into subject values('15331919','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331919', '78','91','62','83','72');
+
+insert into subject values('15331920','CSE250','CSE200','ENR204','MAT102','COM102');
+insert into marks values('15331920', '76','92','64','81','71');
